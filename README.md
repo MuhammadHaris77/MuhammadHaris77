@@ -43,7 +43,7 @@
         <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="80">
     </td>
    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebooksvg" width="80">
+        <img src="https://www.svgrepo.com/show/354259/react.svg" width="80">
     </td>
   <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="80">

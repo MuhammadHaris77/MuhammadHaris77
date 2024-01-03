@@ -32,7 +32,7 @@
     </td>
 
   <td align='center' width="200">
-        <img src="https://www.svgrepo.com/svg/452185/css-3"  width="80">
+        <img src="https://www.svgrepo.com/show/452185/css-3.svg"  width="80">
     </td>
      <td align='center' width="200">
         <img src="https://www.svgrepo.com/svg/353498/bootstrap" width="100">

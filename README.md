@@ -9,7 +9,7 @@
 
 🔥  Web Developer | From Jawan Pakistan
 	
-📢 BSCS | VIRTUAL UNIVERSITY OF UNIVERSITY
+📢 BSCS | FROM VIRTUAL UNIVERSITY OF PAKISTAN
 
 ✨ Favorite Tech: Html5,Css3,bootstrap,tailwand css,javascript, React , Material UI
 

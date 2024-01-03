@@ -35,7 +35,7 @@
         <img src="https://www.svgrepo.com/show/452185/css-3.svg"  width="80">
     </td>
      <td align='center' width="200">
-        <img src="https://www.svgrepo.com/svg/353498/bootstrap" width="100">
+        <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="100">
     </td>
 
  
@@ -43,14 +43,14 @@
  
 <tr>
    <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="80">
     </td>
 
     <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebooksvg" width="80" >
     </td>
      <td align='center' width="200">
-     <img src="https://www.svgrepo.com/svg/354048/material-ui"  width="80">
+     <img src="https://www.svgrepo.com/show/354048/material-ui.svg"  width="80">
       </td>
 </tr>
  

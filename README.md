@@ -45,8 +45,11 @@
    <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/354259/react.svg" width="80">
     </td>
-  <td align='center' width="200">
+    <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="80">
+    </td>
+     <td align='center' width="200">
+        <img src="https://www.svgrepo.com/svg/353648/dialogflow" width="80">
     </td>
 </tr>
  

@@ -11,7 +11,7 @@
 	
 📢 BSCS | From Virtual University Of Pakistan
 
-✨ Favorite Tech: Html5,Css3,bootstrap,tailwand css,javascript, React , Material UI
+✨ Favorite Tech: Html5,Css3,bootstrap,tailwand css,javascript, React , Material UI,DialogFlow, Kommunicate
 
 📓 I’m currently learning Chatbot & Genrative AI | From SMIT... 😭
 
